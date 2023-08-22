@@ -18,3 +18,6 @@ while(cont <= 15):
     print(f"{math.pow(cont,3):.0f}.")
     cont = cont + 1
 
+
+    #Professor, venho informa-lhe que minha pessoa tentou realizar a segunda proposta, mas infelizmente, por meios oficiais, estou incapactidado de realiza-la. Tenha um excelente dia.
+

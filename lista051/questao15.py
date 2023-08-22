@@ -9,7 +9,6 @@ acumulador = 1
 
 while (contador <= 15):
     print(acumulador)
-    contador = contador + 1
     acumulador = (contador - 1)+(contador - 2)
-
+    contador = contador + 1
 
