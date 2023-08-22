@@ -15,6 +15,6 @@ import math
 cont = 1
 
 while(cont <= 15):
-    print(f"{math.pow(cont,3)}")
+    print(f"{math.pow(cont,3):.0f}.")
     cont = cont + 1
 
